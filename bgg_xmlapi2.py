@@ -1,5 +1,5 @@
 import pandas as pd
-import numpy
+import numpy as np
 import requests
 from xml.etree import ElementTree
 import time
